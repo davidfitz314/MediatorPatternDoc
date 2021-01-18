@@ -6,7 +6,8 @@ Created Documentation for the Mediator Pattern as a type of guidelines for my se
 Mediator is a UI/UX pattern for building components and interacting with Api Calls, by using the Mediator pattern the UI/UX can maintain a micro-service architecture for easier testing and reusability.
 
 ---
-#### Graph Representation of Data Flow
+#### Graph Representation of Data Flow 
+~Note mermaid graphs is not supported on github
 ```mermaid
 classDiagram
     GRPCApi .. ApiInterface
